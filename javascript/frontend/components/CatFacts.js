@@ -64,7 +64,7 @@ export default function CatFacts() {
 
     if (running) {
       if (currCat === -1) {
-        setCurrCat((currCat) => currCat + 1); // LOL. This was not planned.
+        setCurrCat((currCat) => currCat + 1);
       } else {
         id = setTimeout(() => {
           intervalFn(fetchedAll, currCat, catsRef.current.length);
