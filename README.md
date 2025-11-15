@@ -1,5 +1,17 @@
-There are two versions because running the Python version on [Replit](https://replit.com/) was unreliable. Sometimes it would work and sometimes it wouldn't without any rhyme or reason. It uses Pygame and Replit support for Pygame projects is limited.
+# Cat Facts – Python CLI & Website
 
-So I built the JavaScript version as a way to distribute the project over the Internet.
+## Overview
 
-The Python version works on its own without a browser and can be used by people with some technical skills that know how to run a program.
+Displays a picture of a cat along with its country of origin and a fun fact every 10 seconds! Covers over 60 breeds from around the world.
+
+## Features
+
+- **Cat Images** – See pictures of over 60 cat breeds.
+- **Country of Origin** – Learn where each breed comes from.
+- **Fun Facts** – Get interesting trivia about each breed.
+- **Python CLI** – Access directly from the command line.
+- **Website** – View in a web browser.
+
+## Website
+
+Check it out here: [catfactsio.netlify.app](https://catfactsio.netlify.app)
