@@ -75,7 +75,7 @@ export function Pygame({
               case 'Ocicat':
                 {
                   image.url =
-                    'http://www.catconcerns.com/wp-content/uploads/2016/09/1_ocicat.jpg';
+                    'https://mikesoftwareengineeringtestbucket.s3.us-west-2.amazonaws.com/ocicat.jpg';
                 }
                 break;
             }
