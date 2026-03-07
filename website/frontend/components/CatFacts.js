@@ -45,7 +45,8 @@ export default function CatFacts() {
       sx={{
         width: '400px',
         height: 'auto',
-      }}></Box>
+      }}
+    ></Box>
   );
 
   const intervalFn = (fetchedAll, currCat, n) => {
@@ -116,7 +117,8 @@ export default function CatFacts() {
         fontSize: mobile ? '34px' : undefined,
         justifyContent: mobile ? 'center' : undefined,
         alignItems: mobile ? 'center' : undefined,
-      }}>
+      }}
+    >
       <Button
         startIcon={
           running ? (
@@ -139,7 +141,8 @@ export default function CatFacts() {
             shouldUpdateRuns(() => setRuns((runs) => runs + 1));
             setLoading(false);
           }
-        }}>
+        }}
+      >
         <Typography sx={{ fontSize: mobile ? '34px' : undefined }}>
           {running ? 'Stop' : 'Run'}
         </Typography>
@@ -154,14 +157,16 @@ export default function CatFacts() {
             fontSize: mobile ? '34px' : undefined,
           },
           alignSelf: 'flex-start',
-        }}>
+        }}
+      >
         <Box
           sx={{
             display: 'flex',
             flexDirection: 'row',
             gap: '10px',
             alignItems: 'center',
-          }}>
+          }}
+        >
           <SiPython fontSize={'28px'} />
           <Typography sx={{ fontSize: '20px', fontWeight: 500 }}>
             catfacts
@@ -173,7 +178,8 @@ export default function CatFacts() {
             flexDirection: 'row',
             gap: '10px',
             alignItems: 'center',
-          }}>
+          }}
+        >
           <Box
             component='img'
             src={avatar}
@@ -182,9 +188,10 @@ export default function CatFacts() {
               width: '28px',
               borderRadius: '100px',
               textAlign: 'center',
-            }}></Box>
+            }}
+          ></Box>
           <Typography sx={{ fontSize: '14px', fontWeight: 300 }}>
-            MikeBarberry
+            CainBarberry
           </Typography>
         </Box>
         <Box
@@ -194,7 +201,8 @@ export default function CatFacts() {
             gap: '10px',
             alignItems: 'center',
             textAlign: 'center',
-          }}>
+          }}
+        >
           <Typography sx={{ fontSize: '14px', fontWeight: 300 }}>
             Sept 18, 2023 &#183; {runs === null ? '--' : runs} Runs
           </Typography>
@@ -228,7 +236,8 @@ export default function CatFacts() {
         backgroundColor: '#0E1525',
         height: '100vh',
         width: '100vw',
-      }}>
+      }}
+    >
       {order()}
     </Box>
   );

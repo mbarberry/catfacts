@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "name": "catfactsjs",
-  "author": "Mike Barberry",
+  "author": "Cain Barberry",
   "private": true,
   "engines": {
     "node": "^18"
