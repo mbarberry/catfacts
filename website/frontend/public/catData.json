@@ -1,0 +1,2966 @@
+[
+  {
+    "id": "abys",
+    "name": "Abyssinian",
+    "species_id": "1",
+    "life_span": "14-17",
+    "temperament": "Active, Energetic, Independent, Intelligent, Gentle, Curious, Playful",
+    "origin": "Egypt",
+    "country_codes": "EG",
+    "country_code": "EG",
+    "description": "Medium-sized, elegant cat with a distinctive ticked coat pattern giving a wild appearance. Known for its athletic build, almond-shaped eyes, and highly active, curious personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "One of the oldest known cat breeds, believed to have originated in the coastal regions of the Indian Ocean and Southeast Asia. The breed was developed in Great Britain from cats imported from Abyssinia (now Ethiopia) in the 1860s.",
+    "reference_image_id": "KWdLHmOqc",
+    "weight": {
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "KWdLHmOqc",
+      "url": "https://cdn2.thecatapi.com/images/KWdLHmOqc.jpg",
+      "width": 3114,
+      "height": 2609
+    }
+  },
+  {
+    "id": "aege",
+    "name": "Aegean",
+    "species_id": "1",
+    "life_span": "9-12",
+    "temperament": "Affectionate, Social, Intelligent, Playful, Active, Adaptable",
+    "origin": "Greece",
+    "country_codes": "GR",
+    "country_code": "GR",
+    "description": "Medium-sized natural breed with a semi-longhaired coat, muscular build, and almond-shaped eyes. One of the oldest domesticated cat breeds, known for its love of water and fishing heritage.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Semi-longhair",
+    "history": "Native to the Greek islands known as the Cyclades in the Aegean Sea. These are natural cats that developed without selective breeding. Common in Greece but rare internationally. Considered one of the oldest domesticated cat breeds.",
+    "reference_image_id": "h19-vtIeX",
+    "weight": {
+      "imperial": "9-12",
+      "metric": "4-5.4"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    },
+    "image": {
+      "id": "h19-vtIeX",
+      "url": "https://cdn2.thecatapi.com/images/h19-vtIeX.jpg",
+      "width": 4272,
+      "height": 2848
+    }
+  },
+  {
+    "id": "abob",
+    "name": "American Bobtail",
+    "species_id": "1",
+    "life_span": "11-15",
+    "temperament": "Intelligent, Interactive, Lively, Playful, Sensitive, Devoted",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large cat with a distinctive naturally short tail, wild appearance, and athletic build. Known for its dog-like personality and exceptional intelligence.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Medium-hair",
+    "history": "Developed naturally in the United States starting in the 1960s. The breed originated from a short-tailed tabby kitten found in Arizona. Bred to maintain the wild appearance while ensuring a friendly, interactive temperament.",
+    "reference_image_id": "8r4M61iyS",
+    "weight": {
+      "imperial": "12-16",
+      "metric": "5.4-7.3"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "8r4M61iyS",
+      "url": "https://cdn2.thecatapi.com/images/8r4M61iyS.jpg",
+      "width": 4592,
+      "height": 2411
+    }
+  },
+  {
+    "id": "acur",
+    "name": "American Curl",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized cat with distinctive backward-curling ears, elegant body, and silky coat. Known for its kitten-like personality that persists into adulthood.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Originated in 1981 in Lakewood, California, when a stray black kitten with unusual curled ears was found. The curl is caused by a dominant gene. Recognized by major cat registries and known for maintaining a kitten-like personality throughout life.",
+    "reference_image_id": "ZZmFRKWZZ",
+    "weight": {
+      "imperial": "7-11",
+      "metric": "3.2-5"
+    },
+    "height": {
+      "imperial": "9-12",
+      "metric": "23-30"
+    },
+    "image": {
+      "id": "ZZmFRKWZZ",
+      "url": "https://cdn2.thecatapi.com/images/ZZmFRKWZZ.jpg",
+      "width": 1980,
+      "height": 1355
+    }
+  },
+  {
+    "id": "amer",
+    "name": "American Ringtail",
+    "species_id": "1",
+    "life_span": "12-18",
+    "temperament": "Friendly, Affectionate, Intelligent, Active, Playful",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized cat with distinctive curled tail that curls over the back. Natural mutation first observed in California.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Developed from a natural mutation first observed in a feral kitten named Solomon in Fremont, California in 1998. The curled tail is carried over the back but is not fused. Experimental breed.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "7-15",
+      "metric": "3.2-6.8"
+    },
+    "height": {
+      "imperial": "9-12",
+      "metric": "23-30"
+    }
+  },
+  {
+    "id": "asho",
+    "name": "American Shorthair",
+    "species_id": "1",
+    "life_span": "15-20",
+    "temperament": "Active, Curious, Easy Going, Playful, Calm, Adaptable",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large muscular cat with a round face, short dense coat, and powerful build. Known for its easy-going temperament and exceptional hunting abilities.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Descended from cats brought to North America by European settlers to protect cargo from rats. One of the first five breeds recognized by the CFA. Originally called the Domestic Shorthair, renamed in 1966 to distinguish from random-bred cats.",
+    "reference_image_id": "MuEGe1-Sz",
+    "weight": {
+      "imperial": "11-15",
+      "metric": "5-6.8"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "MuEGe1-Sz",
+      "url": "https://cdn2.thecatapi.com/images/MuEGe1-Sz.jpg",
+      "width": 3000,
+      "height": 2002
+    }
+  },
+  {
+    "id": "awir",
+    "name": "American Wirehair",
+    "species_id": "1",
+    "life_span": "14-18",
+    "temperament": "Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large cat with a unique crimped, wiry coat that feels springy to the touch. Similar build to American Shorthair but with distinctive coat texture.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Originated in 1966 from a spontaneous mutation in a litter of barn cats in Verona, New York. The unique wiry coat is caused by a dominant gene. Related to the American Shorthair but distinguished by its distinctive crimped coat.",
+    "reference_image_id": "bTo6m3PVg",
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "bTo6m3PVg",
+      "url": "https://cdn2.thecatapi.com/images/bTo6m3PVg.jpg",
+      "width": 2000,
+      "height": 1138
+    }
+  },
+  {
+    "id": "aphr",
+    "name": "Aphrodite Giant",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Gentle, Affectionate, Intelligent, Active, Social",
+    "origin": "Cyprus",
+    "country_codes": "CY",
+    "country_code": "CY",
+    "description": "Large natural breed from Cyprus with muscular build. One of the largest natural cat breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Semi-long",
+    "history": "Large natural breed from the mountains of Cyprus. Related to the Cyprus cat but specifically bred for large size. Recognized by WCF. One of the largest natural cat breeds in the world.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "15-24",
+      "metric": "6.8-10.9"
+    },
+    "height": {
+      "imperial": "14-18",
+      "metric": "36-46"
+    }
+  },
+  {
+    "id": "amau",
+    "name": "Arabian Mau",
+    "species_id": "1",
+    "life_span": "12-14",
+    "temperament": "Affectionate, Agile, Curious, Independent, Playful, Loyal, Active",
+    "origin": "United Arab Emirates",
+    "country_codes": "United Arab Emirates",
+    "country_code": "AE",
+    "description": "Medium to large, muscular cat with a natural, athletic build adapted to desert conditions. Known for excellent health and survival instincts.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Natural breed that developed on the Arabian Peninsula over thousands of years. Adapted to desert conditions with excellent survival skills. Recently recognized as a formal breed but has existed as a natural landrace for centuries.",
+    "reference_image_id": "zlpgGWqN7",
+    "weight": {
+      "imperial": "9-16",
+      "metric": "4-7.3"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "zlpgGWqN7",
+      "url": "https://cdn2.thecatapi.com/images/zlpgGWqN7.jpg",
+      "width": 3840,
+      "height": 2400
+    }
+  },
+  {
+    "id": "asia",
+    "name": "Asian Semi-longhair",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Active, Curious, Gentle, Affectionate, Social",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Medium-sized elegant cat with a semi-long silky coat and graceful appearance. Related to the Burmese with a longer coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Semi-longhair",
+    "history": "Developed in the UK as a longhaired version of the Asian cat group, which includes the Burmese. Also known as the Tiffanie. Created through Burmese breeding programs in the 1980s.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    }
+  },
+  {
+    "id": "amis",
+    "name": "Australian Mist",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Lively, Social, Fun-loving, Relaxed, Affectionate, Tolerant",
+    "origin": "Australia",
+    "country_codes": "AU",
+    "country_code": "AU",
+    "description": "Medium-sized spotted or marbled cat with a misty appearance to its coat. Developed specifically as an indoor companion cat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in Australia starting in 1976 by Dr. Truda Straede. Created by crossing Burmese, Abyssinian, and domestic shorthairs. Originally called Spotted Mist, renamed Australian Mist in 1998.",
+    "reference_image_id": "zTiuUpmqf",
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    },
+    "image": {
+      "id": "zTiuUpmqf",
+      "url": "https://cdn2.thecatapi.com/images/zTiuUpmqf.jpg",
+      "width": 4553,
+      "height": 3036
+    }
+  },
+  {
+    "id": "bali",
+    "name": "Balinese",
+    "species_id": "1",
+    "life_span": "12-20",
+    "temperament": "Affectionate, Intelligent, Playful, Active, Social, Curious",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Elegant, svelte cat with long silky coat and striking blue eyes. Essentially a longhaired Siamese with the same pointed coloration and athletic build.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed from longhaired kittens that appeared in Siamese litters. Formally bred starting in the 1940s-50s. Named for the graceful dancers of Bali, though the breed has no connection to Indonesia.",
+    "reference_image_id": "obRjvWv-e",
+    "weight": {
+      "imperial": "6-11",
+      "metric": "2.7-5"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    },
+    "image": {
+      "id": "obRjvWv-e",
+      "url": "https://cdn2.thecatapi.com/images/obRjvWv-e.jpg",
+      "width": 2560,
+      "height": 1600
+    }
+  },
+  {
+    "id": "bamb",
+    "name": "Bambino",
+    "species_id": "1",
+    "life_span": "12-14",
+    "temperament": "Affectionate, Lively, Friendly, Intelligent, Social, Playful",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Small, hairless cat with short legs combining Sphynx and Munchkin traits. Has large upright ears and wrinkled skin typical of hairless breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hairless",
+    "history": "Created in the early 2000s by crossing Sphynx and Munchkin cats. The name means 'baby' in Italian, referring to their small size. Considered an experimental breed by TICA.",
+    "reference_image_id": "Oaoo1ky3A",
+    "weight": {
+      "imperial": "5-9",
+      "metric": "2.3-4"
+    },
+    "height": {
+      "imperial": "6-8",
+      "metric": "15-20"
+    },
+    "image": {
+      "id": "Oaoo1ky3A",
+      "url": "https://cdn2.thecatapi.com/images/Oaoo1ky3A.jpg",
+      "width": 3878,
+      "height": 2771
+    }
+  },
+  {
+    "id": "beng",
+    "name": "Bengal",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Alert, Agile, Energetic, Demanding, Intelligent, Curious, Playful",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large, muscular cat with a distinctive wild appearance featuring spotted or marbled coat patterns. Highly athletic and intelligent with an exotic look.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed by crossing domestic cats with the Asian leopard cat starting in the 1960s-70s by Jean Mill. Named after the leopard cat's scientific name (Prionailurus bengalensis). Recognized by TICA in 1983.",
+    "reference_image_id": "dN6eoeLjY",
+    "weight": {
+      "imperial": "10-18",
+      "metric": "4.5-8.2"
+    },
+    "height": {
+      "imperial": "13-16",
+      "metric": "33-41"
+    },
+    "image": {
+      "id": "dN6eoeLjY",
+      "url": "https://cdn2.thecatapi.com/images/dN6eoeLjY.jpg",
+      "width": 3648,
+      "height": 2736
+    }
+  },
+  {
+    "id": "birm",
+    "name": "Birman",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Affectionate, Active, Gentle, Social, Quiet, Loyal",
+    "origin": "France",
+    "country_codes": "FR",
+    "country_code": "FR",
+    "description": "Medium to large, colorpointed cat with long silky coat, white gloved paws, and striking blue eyes. Known for its gentle, docile temperament.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Legend says they were temple cats in Burma (Myanmar). The breed as known today was developed in France in the early 1900s. Nearly extinct after WWII but carefully rebuilt. Known as the Sacred Cat of Burma.",
+    "reference_image_id": "ln1Ks7VIu",
+    "weight": {
+      "imperial": "10-15",
+      "metric": "4.5-6.8"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "ln1Ks7VIu",
+      "url": "https://cdn2.thecatapi.com/images/ln1Ks7VIu.jpg",
+      "width": 4032,
+      "height": 3024
+    }
+  },
+  {
+    "id": "bomb",
+    "name": "Bombay",
+    "species_id": "1",
+    "life_span": "12-18",
+    "temperament": "Affectionate, Dependent, Gentle, Intelligent, Playful, Social",
+    "origin": "United States",
+    "country_codes": "United States",
+    "country_code": "US",
+    "description": "Medium-sized, muscular jet-black cat with striking copper or gold eyes. Bred to resemble a miniature black panther with a sleek, patent-leather coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Created in the 1950s by breeder Nikki Horner in Louisville, Kentucky, by crossing black American Shorthairs with sable Burmese. Goal was to create a cat resembling a miniature black panther.",
+    "reference_image_id": "BkksyH95Z",
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "BkksyH95Z",
+      "url": "https://cdn2.thecatapi.com/images/BkksyH95Z.jpg",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "id": "braz",
+    "name": "Brazilian Shorthair",
+    "species_id": "1",
+    "life_span": "14-20",
+    "temperament": "Active, Playful, Intelligent, Affectionate, Social",
+    "origin": "Brazil",
+    "country_codes": "Brazil",
+    "country_code": "BR",
+    "description": "Medium-sized, elegant cat with a muscular build and short, close-lying coat. Brazil's only internationally recognized cat breed.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Natural breed that developed from street cats in Brazil. First purebred cat native to Brazil, recognized by the World Cat Federation in 1998. Developed over 500 years from cats brought by European colonizers.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-18",
+      "metric": "3.6-8.2"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    }
+  },
+  {
+    "id": "bslo",
+    "name": "British Longhair",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Easy Going, Independent, Intelligent, Loyal, Social, Calm",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Large, round cat with plush long coat and characteristic cobby body. The longhaired version of the British Shorthair with the same gentle personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed naturally from longhaired kittens appearing in British Shorthair litters. The longhaired gene came from Persian outcrosses used to rebuild the breed after WWII. Recognized as a separate breed by some registries.",
+    "reference_image_id": "re7uO34hz",
+    "weight": {
+      "imperial": "12-18",
+      "metric": "5.4-8.2"
+    },
+    "height": {
+      "imperial": "12-15",
+      "metric": "30-38"
+    },
+    "image": {
+      "id": "re7uO34hz",
+      "url": "https://cdn2.thecatapi.com/images/re7uO34hz.jpg",
+      "width": 1600,
+      "height": 2397
+    }
+  },
+  {
+    "id": "bsho",
+    "name": "British Shorthair",
+    "species_id": "1",
+    "life_span": "12-17",
+    "temperament": "Affectionate, Easy Going, Gentle, Loyal, Patient, Calm, Independent",
+    "origin": "United Kingdom",
+    "country_codes": "United Kingdom",
+    "country_code": "GB",
+    "description": "Large, round, cobby cat with dense plush coat and characteristic chubby cheeks. Known for its calm, easy-going temperament and teddy bear appearance.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "One of the oldest English cat breeds, descended from cats brought by Romans. Nearly extinct after WWII but rebuilt using Persian crosses. The British Blue is the most famous color variety.",
+    "reference_image_id": "HYTJQgs2M",
+    "weight": {
+      "imperial": "12-20",
+      "metric": "5.4-9.1"
+    },
+    "height": {
+      "imperial": "12-15",
+      "metric": "30-38"
+    },
+    "image": {
+      "id": "HYTJQgs2M",
+      "url": "https://cdn2.thecatapi.com/images/HYTJQgs2M.jpg",
+      "width": 3264,
+      "height": 2448
+    }
+  },
+  {
+    "id": "brit",
+    "name": "British Tipped",
+    "species_id": "1",
+    "life_span": "12-17",
+    "temperament": "Affectionate, Easy Going, Gentle, Calm, Loyal, Independent",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Medium to large cat with British type and tipped/shaded coat pattern. Elegant variety of British cats.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed from British Shorthairs with Chinchilla Persian influence. Features tipped or shaded coat pattern on British body type. Recognized variety within British breed standard.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "12-18",
+      "metric": "5.4-8.2"
+    },
+    "height": {
+      "imperial": "12-15",
+      "metric": "30-38"
+    }
+  },
+  {
+    "id": "bure",
+    "name": "Burmese",
+    "species_id": "1",
+    "life_span": "15-18",
+    "temperament": "Curious, Intelligent, Gentle, Social, Interactive, Playful, Lively, Affectionate",
+    "origin": "Myanmar (Burma)",
+    "country_codes": "Myanmar (Burma)",
+    "country_code": "MM",
+    "description": "Medium-sized, muscular cat with a compact body, rounded head, and expressive golden eyes. Known for its dog-like personality and love of human companionship.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Modern Burmese descended from Wong Mau, a cat brought from Burma to the US in 1930. Developed by breeding with Siamese. Two distinct varieties exist: American (more compact) and European (more moderate).",
+    "reference_image_id": "92D9NZLs0",
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "92D9NZLs0",
+      "url": "https://cdn2.thecatapi.com/images/92D9NZLs0.jpg",
+      "width": 3260,
+      "height": 1685
+    }
+  },
+  {
+    "id": "buri",
+    "name": "Burmilla",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Easy Going, Friendly, Intelligent, Lively, Playful, Social, Affectionate",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Medium-sized elegant cat with a sparkling silver-shaded or tipped coat. Combines Burmese personality with Chinchilla Persian coloring.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Created accidentally in 1981 in the UK when a Chinchilla Persian escaped and mated with a lilac Burmese. The resulting kittens were so attractive that a breeding program was established.",
+    "reference_image_id": "J4Jv10E7O",
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "J4Jv10E7O",
+      "url": "https://cdn2.thecatapi.com/images/J4Jv10E7O.jpg",
+      "width": 4608,
+      "height": 3072
+    }
+  },
+  {
+    "id": "burm",
+    "name": "Burmoir",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Playful, Social, Intelligent, Active",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Medium-sized elegant cat combining Burmese type with silver coloring. Rare variety.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed as a silver version of the Burmese type cat. Part of the Asian group. Combines Burmese personality with silver tabby pattern. Rare outside UK.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    }
+  },
+  {
+    "id": "cspa",
+    "name": "California Spangled",
+    "species_id": "1",
+    "life_span": "10-14",
+    "temperament": "Affectionate, Curious, Intelligent, Loyal, Social, Active, Athletic",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large spotted cat bred to resemble wild cats. Athletic build with a low-slung, hunting-cat movement.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Created in the 1980s by Paul Casey to raise awareness about wild cat conservation. Bred from various domestic breeds including Abyssinian, British Shorthair, and others without wild cat genetics. Very rare today.",
+    "reference_image_id": "B1ERTmgph",
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "B1ERTmgph",
+      "url": "https://cdn2.thecatapi.com/images/B1ERTmgph.jpg",
+      "width": 1200,
+      "height": 688
+    }
+  },
+  {
+    "id": "cara",
+    "name": "Caracat",
+    "species_id": "1",
+    "life_span": "1",
+    "temperament": "Minimal grooming needed",
+    "origin": null,
+    "country_codes": null,
+    "country_code": null,
+    "description": "Large hybrid between caracal and domestic cat. Extremely rare and controversial.,16-22,41-56,14-20,36-51,20-30,9.1-13.6,15-25,6.8-11.3,15-20",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": null,
+    "history": null,
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "2",
+      "metric": "May not be safe with dogs"
+    },
+    "height": {
+      "imperial": "Active, Intelligent, Independent, Athletic, Alert",
+      "metric": "Requires experienced exotic owners only. Not suitable for typical families."
+    }
+  },
+  {
+    "id": "ctif",
+    "name": "Chantilly-Tiffany",
+    "species_id": "1",
+    "life_span": "14-16",
+    "temperament": "Affectionate, Demanding, Interactive, Loyal, Devoted, Sweet",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized semi-longhaired cat with a silky chocolate or other colored coat and golden eyes. Known for its devoted, affectionate nature.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Semi-longhair",
+    "history": "Originated in the 1960s from chocolate-colored cats of unknown origin. Confused with the British Tiffanie/Asian Semi-longhair. Very rare breed that has experienced near-extinction multiple times.",
+    "reference_image_id": "TR-5nAd_S",
+    "weight": {
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    },
+    "image": {
+      "id": "TR-5nAd_S",
+      "url": "https://cdn2.thecatapi.com/images/TR-5nAd_S.jpg",
+      "width": 2901,
+      "height": 2938
+    }
+  },
+  {
+    "id": "char",
+    "name": "Chartreux",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Loyal, Intelligent, Social, Lively, Playful, Calm, Observant",
+    "origin": "France",
+    "country_codes": "FR",
+    "country_code": "FR",
+    "description": "Medium to large, muscular cat with distinctive blue-gray woolly coat and copper or orange eyes. Known for its quiet, observant nature and sweet smile.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Ancient French breed possibly dating to medieval times. Legend says they were bred by Carthusian monks. Nearly extinct after WWII but carefully rebuilt. National cat of France.",
+    "reference_image_id": "3-DZDkDGa",
+    "weight": {
+      "imperial": "12-16",
+      "metric": "5.4-7.3"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "3-DZDkDGa",
+      "url": "https://cdn2.thecatapi.com/images/3-DZDkDGa.jpg",
+      "width": 4272,
+      "height": 2848
+    }
+  },
+  {
+    "id": "chau",
+    "name": "Chausie",
+    "species_id": "1",
+    "life_span": "12-14",
+    "temperament": "Affectionate, Intelligent, Playful, Social, Active, Athletic, Loyal",
+    "origin": "Egypt/United States",
+    "country_codes": "EG",
+    "country_code": "EG",
+    "description": "Large, athletic hybrid cat with a wild appearance derived from jungle cat ancestry. Long-legged and muscular with tufted ears.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hybrid",
+    "history": "Created by crossing jungle cats (Felis chaus) with domestic cats. Development began in the 1960s-70s. Name derived from the jungle cat's Latin name. Requires experienced owners.",
+    "reference_image_id": "snxE5_PPX",
+    "weight": {
+      "imperial": "15-25",
+      "metric": "6.8-11.3"
+    },
+    "height": {
+      "imperial": "14-18",
+      "metric": "36-46"
+    },
+    "image": {
+      "id": "snxE5_PPX",
+      "url": "https://cdn2.thecatapi.com/images/snxE5_PPX.jpg",
+      "width": 3888,
+      "height": 2592
+    }
+  },
+  {
+    "id": "chas",
+    "name": "Chausie",
+    "species_id": "1",
+    "life_span": "12-14",
+    "temperament": "Affectionate, Intelligent, Playful, Social, Active, Athletic, Loyal",
+    "origin": "Egypt/United States",
+    "country_codes": "EG",
+    "country_code": "EG",
+    "description": "Large, athletic hybrid cat with wild appearance derived from jungle cat ancestry. Long-legged and muscular with tufted ears.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hybrid",
+    "history": "Created by crossing jungle cats (Felis chaus) with domestic cats. Development began in 1960s-70s. Name from jungle cat's Latin name. Requires experienced owners.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "15-25",
+      "metric": "6.8-11.3"
+    },
+    "height": {
+      "imperial": "14-18",
+      "metric": "36-46"
+    }
+  },
+  {
+    "id": "chee",
+    "name": "Cheetoh",
+    "species_id": "1",
+    "life_span": "12-14",
+    "temperament": "Affectionate, Gentle, Intelligent, Social, Friendly, Playful",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Large spotted cat combining Bengal and Ocicat heritage. Athletic build with wild appearance but gentle domestic personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in the early 2000s by crossing Bengals with Ocicats. Goal was to create a large, gentle spotted cat with wild appearance. Registered with TICA as an experimental breed.",
+    "reference_image_id": "L-aDi29wP",
+    "weight": {
+      "imperial": "15-23",
+      "metric": "6.8-10.4"
+    },
+    "height": {
+      "imperial": "12-16",
+      "metric": "30-41"
+    },
+    "image": {
+      "id": "L-aDi29wP",
+      "url": "https://cdn2.thecatapi.com/images/L-aDi29wP.jpg",
+      "width": 3264,
+      "height": 2448
+    }
+  },
+  {
+    "id": "csho",
+    "name": "Colorpoint Shorthair",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Affectionate, Intelligent, Playful, Social, Active, Sensitive",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized, elegant cat with Siamese body type and pointed pattern in non-traditional colors like red, cream, and tortie points.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in the 1940s-50s by crossing Siamese with red and cream American Shorthairs to introduce new point colors. Considered a Siamese variant by some registries, separate breed by CFA.",
+    "reference_image_id": "lOl0J96On",
+    "weight": {
+      "imperial": "5-10",
+      "metric": "2.3-4.5"
+    },
+    "height": {
+      "imperial": "9-12",
+      "metric": "23-30"
+    },
+    "image": {
+      "id": "lOl0J96On",
+      "url": "https://cdn2.thecatapi.com/images/lOl0J96On.jpg",
+      "width": 2448,
+      "height": 3264
+    }
+  },
+  {
+    "id": "crex",
+    "name": "Cornish Rex",
+    "species_id": "1",
+    "life_span": "11-15",
+    "temperament": "Affectionate, Intelligent, Active, Curious, Playful, Social",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Medium-sized, elegant cat with distinctive wavy coat, long legs, and arched back. Known for its playful, kitten-like personality throughout life.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Rex",
+    "history": "Originated in Cornwall, England in 1950 from a spontaneous mutation in a barn cat litter. The wavy coat is caused by a recessive gene. Named after Rex rabbits with similar wavy fur.",
+    "reference_image_id": "o81wWm6-Z",
+    "weight": {
+      "imperial": "6-10",
+      "metric": "2.7-4.5"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "o81wWm6-Z",
+      "url": "https://cdn2.thecatapi.com/images/o81wWm6-Z.jpg",
+      "width": 3006,
+      "height": 2442
+    }
+  },
+  {
+    "id": "cymr",
+    "name": "Cymric",
+    "species_id": "1",
+    "life_span": "8-14",
+    "temperament": "Gentle, Loyal, Intelligent, Playful, Devoted",
+    "origin": "Isle of Man/Canada",
+    "country_codes": "CA",
+    "country_code": "CA",
+    "description": "Medium-sized longhaired tailless cat, the longhaired version of the Manx. Round body with powerful hindquarters.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Longhaired kittens have always appeared in Manx litters. Recognized as a separate breed in the 1960s-70s. Named after Cymru, the Welsh name for Wales. Same tailless mutation as Manx.",
+    "reference_image_id": "GQ61BDToD",
+    "weight": {
+      "imperial": "8-13",
+      "metric": "3.6-5.9"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "GQ61BDToD",
+      "url": "https://cdn2.thecatapi.com/images/GQ61BDToD.jpg",
+      "width": 3504,
+      "height": 2336
+    }
+  },
+  {
+    "id": "cypr",
+    "name": "Cyprus",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Social, Loyal, Curious, Playful",
+    "origin": "Cyprus",
+    "country_codes": "CY",
+    "country_code": "CY",
+    "description": "Medium-sized natural breed with athletic build. One of the oldest cat breeds, native to Cyprus island.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "One of the oldest natural cat breeds, present on Cyprus for thousands of years. Archaeological evidence shows cats on Cyprus 9,500 years ago. Possibly one of the first domesticated cat populations.",
+    "reference_image_id": "S97Qj5YYO",
+    "weight": {
+      "imperial": "8-16",
+      "metric": "3.6-7.3"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "S97Qj5YYO",
+      "url": "https://cdn2.thecatapi.com/images/S97Qj5YYO.jpg",
+      "width": 3318,
+      "height": 2212
+    }
+  },
+  {
+    "id": "drex",
+    "name": "Devon Rex",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Highly interactive, Mischievous, Loyal, Social, Playful, Affectionate",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Small to medium cat with distinctive wavy coat, large ears, and pixie-like face. Known for its mischievous, dog-like personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Rex",
+    "history": "Originated in Devon, England in 1960 from a curly-coated feral cat. Different mutation from Cornish Rex despite similar appearance. Known as the 'pixie cat' for its elfin features.",
+    "reference_image_id": "lJHXU7DlQ",
+    "weight": {
+      "imperial": "5-10",
+      "metric": "2.3-4.5"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "lJHXU7DlQ",
+      "url": "https://cdn2.thecatapi.com/images/lJHXU7DlQ.jpg",
+      "width": 3264,
+      "height": 2448
+    }
+  },
+  {
+    "id": "doml",
+    "name": "Domestic Longhair",
+    "species_id": "1",
+    "life_span": "12-20",
+    "temperament": "Varies widely - typically Friendly, Adaptable, Intelligent, Playful",
+    "origin": "Worldwide",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Mixed-breed cat of no specific pedigree with long coat. Common companion cat worldwide.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Not a breed but the common name for mixed-heritage cats with long coats. Hardy companions with diverse appearances and temperaments. Require more grooming than shorthaired counterparts.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "8-14",
+      "metric": "20-36"
+    }
+  },
+  {
+    "id": "domm",
+    "name": "Domestic Mediumhair",
+    "species_id": "1",
+    "life_span": "12-20",
+    "temperament": "Varies widely - typically Friendly, Adaptable, Intelligent, Playful",
+    "origin": "Worldwide",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Mixed-breed cat of no specific pedigree with medium-length coat. Common companion worldwide.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Medium-hair",
+    "history": "Not a breed but the common name for mixed-heritage cats with medium-length coats. Falls between Domestic Shorthair and Longhair in coat length and grooming needs.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "8-14",
+      "metric": "20-36"
+    }
+  },
+  {
+    "id": "doms",
+    "name": "Domestic Shorthair",
+    "species_id": "1",
+    "life_span": "12-20",
+    "temperament": "Varies widely - typically Friendly, Adaptable, Intelligent, Playful",
+    "origin": "Worldwide",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Mixed-breed cat of no specific pedigree with short coat. The most common cat in the world.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Not a breed but the common name for mixed-heritage cats with short coats. Also called moggies or house cats. Represent the vast majority of cats worldwide. Hardy and diverse.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "8-14",
+      "metric": "20-36"
+    }
+  },
+  {
+    "id": "dons",
+    "name": "Donskoy",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Playful, Affectionate, Loyal, Social, Intelligent, Gentle",
+    "origin": "Russia",
+    "country_codes": "RU",
+    "country_code": "RU",
+    "description": "Medium-sized hairless or partially hairless cat with wrinkled skin, long ears, and almond-shaped eyes. Russian origin hairless breed.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hairless",
+    "history": "Discovered in 1987 in Rostov-on-Don, Russia. Unlike the Sphynx, the Donskoy hairlessness is caused by a dominant gene. Also called Don Sphynx. Recognized by TICA.",
+    "reference_image_id": "Z9zxhFVdw",
+    "weight": {
+      "imperial": "7-15",
+      "metric": "3.2-6.8"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "Z9zxhFVdw",
+      "url": "https://cdn2.thecatapi.com/images/Z9zxhFVdw.jpg",
+      "width": 3789,
+      "height": 2873
+    }
+  },
+  {
+    "id": "lihu",
+    "name": "Dragon Li",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Intelligent, Friendly, Gentle, Loving, Loyal, Independent",
+    "origin": "China",
+    "country_codes": "CN",
+    "country_code": "CN",
+    "description": "Medium to large muscular cat with distinctive golden-brown tabby coat. Ancient Chinese natural breed also known as Chinese Li Hua.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "One of the oldest natural cat breeds, native to China. Self-domesticated from Chinese mountain cats. Highly valued as mousers. Only recently recognized internationally by CFA in 2010.",
+    "reference_image_id": "KrDYENsA3",
+    "weight": {
+      "imperial": "9-12",
+      "metric": "4-5.4"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "KrDYENsA3",
+      "url": "https://cdn2.thecatapi.com/images/KrDYENsA3.jpg",
+      "width": 1080,
+      "height": 1350
+    }
+  },
+  {
+    "id": "dwel",
+    "name": "Dwelf",
+    "species_id": "1",
+    "life_span": "5",
+    "temperament": "Regular skin care - bathing and moisturizing needed",
+    "origin": null,
+    "country_codes": null,
+    "country_code": null,
+    "description": "Small, hairless cat with curled ears and short legs. Triple hybrid combining Sphynx, Munchkin, and American Curl.,6-9,15-23,5-8,13-20,4-9,1.8-4,3-7,1.4-3.2,12-15",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": null,
+    "history": null,
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "4",
+      "metric": "Good with dogs, social nature"
+    },
+    "height": {
+      "imperial": "Friendly, Social, Intelligent, Playful, Affectionate",
+      "metric": "Good with families, loves attention and interaction."
+    }
+  },
+  {
+    "id": "emau",
+    "name": "Egyptian Mau",
+    "species_id": "1",
+    "life_span": "13-16",
+    "temperament": "Agile, Dependent, Gentle, Intelligent, Lively, Loyal, Playful, Devoted",
+    "origin": "Egypt",
+    "country_codes": "EG",
+    "country_code": "EG",
+    "description": "Medium-sized, muscular spotted cat with distinctive gooseberry-green eyes. One of the few naturally spotted domestic cat breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "One of the oldest domestic cat breeds, possibly descended from ancient Egyptian cats. The only naturally spotted domestic breed. Name 'Mau' is the Egyptian word for cat.",
+    "reference_image_id": "4_AdeyZUv",
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "10-14",
+      "metric": "25-36"
+    },
+    "image": {
+      "id": "4_AdeyZUv",
+      "url": "https://cdn2.thecatapi.com/images/4_AdeyZUv.jpg",
+      "width": 3888,
+      "height": 2592
+    }
+  },
+  {
+    "id": "elfc",
+    "name": "Elf Cat",
+    "species_id": "1",
+    "life_span": "5",
+    "temperament": "Regular skin care - weekly bathing to remove oils",
+    "origin": null,
+    "country_codes": null,
+    "country_code": null,
+    "description": "Medium-sized hairless cat with distinctive curled ears. Combines Sphynx and American Curl traits.,9-12,23-30,8-10,20-25,10-15,4.5-6.8,8-12,3.6-5.4,12-15",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": null,
+    "history": null,
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "5",
+      "metric": "Good with dogs, social nature"
+    },
+    "height": {
+      "imperial": "Affectionate, Intelligent, Playful, Social, Friendly",
+      "metric": "Good with families, loves attention and cuddling."
+    }
+  },
+  {
+    "id": "ebur",
+    "name": "European Burmese",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Sweet, Affectionate, Loyal, Intelligent, Playful, Social",
+    "origin": "Myanmar (Burma)",
+    "country_codes": "Myanmar (Burma)",
+    "country_code": "MM",
+    "description": "Medium-sized elegant cat with slightly more moderate features than American Burmese. Sweet expression and silky coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Derived from same Wong Mau cat as American Burmese but developed differently in Europe. European standard is more moderate than American. Recognized as separate breed by some registries.",
+    "reference_image_id": "YOjBThApG",
+    "weight": {
+      "imperial": "7-14",
+      "metric": "3.2-6.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "YOjBThApG",
+      "url": "https://cdn2.thecatapi.com/images/YOjBThApG.jpg",
+      "width": 2838,
+      "height": 4518
+    }
+  },
+  {
+    "id": "eshr",
+    "name": "European Shorthair",
+    "species_id": "1",
+    "life_span": "15-20",
+    "temperament": "Sweet, Active, Intelligent, Friendly, Calm, Adaptable",
+    "origin": "Sweden / Italy / Europe",
+    "country_codes": "SE",
+    "country_code": "SE",
+    "description": "A medium-sized, muscular cat breed native to Europe, known for its sweet temperament, strong hunting instincts, and a short, dense, weather-resistant coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in Europe to preserve the traditional landrace house cats of the continent. Formally recognized as a distinct breed by FIFe in 1982, though its ancestors have lived in Europe for thousands of years.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "10-15",
+      "metric": "4.5-6.8"
+    },
+    "height": {
+      "imperial": "11-13",
+      "metric": "28-33"
+    }
+  },
+  {
+    "id": "exlh",
+    "name": "Exotic Longhair",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Sweet, Quiet, Peaceful, Gentle, Calm",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "A medium to large cat breed that shares the round head, sweet expression, and cobby body of the Persian and Exotic Shorthair, but features a long, plush, and dense coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Bred as the longhaired variety arising from Exotic Shorthair lines (which contain Persian ancestry). Sometimes registered simply as Persians or as a distinct breed variant depending on the cat registry.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "10-15",
+      "metric": "4.5-6.8"
+    },
+    "height": {
+      "imperial": "10-13",
+      "metric": "25-33"
+    }
+  },
+  {
+    "id": "esho",
+    "name": "Exotic Shorthair",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Sweet, Loyal, Quiet, Peaceful, Gentle, Calm",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large, cobby cat with Persian features but short, plush coat. Known as the 'lazy man's Persian' for easier grooming needs.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in the 1950s-60s by crossing Persians with American Shorthairs to create a short-coated version of the Persian. Has the Persian's sweet face but with easier coat maintenance.",
+    "reference_image_id": "ySzdVwyb1",
+    "weight": {
+      "imperial": "10-15",
+      "metric": "4.5-6.8"
+    },
+    "height": {
+      "imperial": "10-13",
+      "metric": "25-33"
+    },
+    "image": {
+      "id": "ySzdVwyb1",
+      "url": "https://cdn2.thecatapi.com/images/ySzdVwyb1.jpg",
+      "width": 4640,
+      "height": 2610
+    }
+  },
+  {
+    "id": "fold",
+    "name": "Foldex",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Sweet, Affectionate, Playful, Gentle, Calm, Social",
+    "origin": "Canada",
+    "country_codes": "CA",
+    "country_code": "CA",
+    "description": "Small to medium cat with round face, folded ears, and short plush coat. Combines Scottish Fold and Exotic Shorthair traits.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in Quebec, Canada by crossing Scottish Folds with Exotic Shorthairs. Combines folded ears with Persian-type face. Recognized by Canadian Cat Association. Sometimes called Exotic Fold.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "6-14",
+      "metric": "2.7-6.4"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    }
+  },
+  {
+    "id": "gene",
+    "name": "Genetta",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Playful, Intelligent, Active, Affectionate, Curious, Friendly",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Small, short-legged spotted cat bred to resemble the African Genet. Combines Munchkin and spotted breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed by crossing Munchkins with Bengals and sometimes Ocicats and Savannahs to create a spotted, short-legged cat resembling the African Genet. Experimental breed not widely recognized.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "5-9",
+      "metric": "2.3-4"
+    },
+    "height": {
+      "imperial": "7-10",
+      "metric": "18-25"
+    }
+  },
+  {
+    "id": "germ",
+    "name": "German Rex",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Friendly, Intelligent, Playful, Affectionate, Active",
+    "origin": "Germany",
+    "country_codes": "DE",
+    "country_code": "DE",
+    "description": "Medium-sized cat with wavy coat similar to other Rex breeds. Slender build with large ears.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Rex",
+    "history": "First documented in the 1930s in Germany, predating the Cornish Rex. The first known Rex cat, Munk, was born in 1930. Different mutation from Cornish and Devon Rex. Rare breed today.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "6-10",
+      "metric": "2.7-4.5"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    }
+  },
+  {
+    "id": "hbro",
+    "name": "Havana Brown",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Curious, Demanding, Friendly, Intelligent, Playful",
+    "origin": "United Kingdom",
+    "country_codes": "United Kingdom",
+    "country_code": "GB",
+    "description": "Medium-sized, elegant chocolate-brown cat with distinctive corn-cob shaped muzzle and green eyes. Known for its rich mahogany coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in England in the 1950s by crossing Siamese with black domestic shorthairs and Russian Blues. Named for its cigar-brown color resembling Havana tobacco or possibly Havana rabbits.",
+    "reference_image_id": "gQggWSR5I",
+    "weight": {
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "gQggWSR5I",
+      "url": "https://cdn2.thecatapi.com/images/gQggWSR5I.jpg",
+      "width": 4081,
+      "height": 2721
+    }
+  },
+  {
+    "id": "high",
+    "name": "Highlander",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Affectionate, Gentle, Social, Playful, Confident, Loving",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large muscular cat with curled ears and often a bobbed tail. Unique wild appearance with gentle personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Developed starting in 2004 by crossing Desert Lynx and Jungle Curl cats. Originally called Highland Lynx. TICA recognized breed with distinctive curled ears and often bobtail.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "10-20",
+      "metric": "4.5-9.1"
+    },
+    "height": {
+      "imperial": "12-16",
+      "metric": "30-41"
+    }
+  },
+  {
+    "id": "hima",
+    "name": "Himalayan",
+    "species_id": "1",
+    "life_span": "9-15",
+    "temperament": "Dependent, Gentle, Intelligent, Quiet, Social, Sweet, Calm",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large, cobby cat with Persian body type and Siamese colorpoint pattern. Long luxurious coat and blue eyes.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Created in the 1930s by crossing Persians with Siamese to combine Persian body type with Siamese colorpoints. Considered a variety of Persian by some registries. Popular companion breed.",
+    "reference_image_id": "KBjPMWOsK",
+    "weight": {
+      "imperial": "9-14",
+      "metric": "4-6.4"
+    },
+    "height": {
+      "imperial": "10-13",
+      "metric": "25-33"
+    },
+    "image": {
+      "id": "KBjPMWOsK",
+      "url": "https://cdn2.thecatapi.com/images/KBjPMWOsK.jpg",
+      "width": 5797,
+      "height": 3854
+    }
+  },
+  {
+    "id": "jbob",
+    "name": "Japanese Bobtail",
+    "species_id": "1",
+    "life_span": "14-16",
+    "temperament": "Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social",
+    "origin": "Japan",
+    "country_codes": "JP",
+    "country_code": "JP",
+    "description": "Medium-sized cat with distinctive pom-pom tail and elegant, slender build. Traditional Japanese breed.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Ancient breed depicted in Japanese art for over 1,000 years. Symbol of good luck - the famous 'beckoning cat' (Maneki-neko) figurine is based on this breed. Mi-ke (tri-color) is the most prized pattern.",
+    "reference_image_id": "Sw_EWWLW-",
+    "weight": {
+      "imperial": "6-10",
+      "metric": "2.7-4.5"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "Sw_EWWLW-",
+      "url": "https://cdn2.thecatapi.com/images/Sw_EWWLW-.jpg",
+      "width": 3949,
+      "height": 3949
+    }
+  },
+  {
+    "id": "java",
+    "name": "Javanese",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Active, Devoted, Intelligent, Playful, Affectionate",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized, elegant longhaired cat with Siamese body type. Comes in colorpoint patterns not found in Balinese.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed from Balinese cats with non-traditional point colors. Considered same breed as Balinese by some registries. Named after the island of Java, though unrelated to Indonesia.",
+    "reference_image_id": "BTiGuPOqW",
+    "weight": {
+      "imperial": "5-10",
+      "metric": "2.3-4.5"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    },
+    "image": {
+      "id": "BTiGuPOqW",
+      "url": "https://cdn2.thecatapi.com/images/BTiGuPOqW.jpg",
+      "width": 3264,
+      "height": 2448
+    }
+  },
+  {
+    "id": "kana",
+    "name": "Kanaani",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Active, Independent, Intelligent, Athletic, Affectionate",
+    "origin": "Israel",
+    "country_codes": "IL",
+    "country_code": "IL",
+    "description": "Medium to large spotted cat derived from African wildcat and domestic breeds. Wild appearance with domestic temperament.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in Israel by crossing African wildcats with domestic cats and spotted Orientals. Goal was to create a spotted cat with wild appearance and domestic temperament. Recognized by WCF.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "10-16",
+      "metric": "4.5-7.3"
+    },
+    "height": {
+      "imperial": "12-15",
+      "metric": "30-38"
+    }
+  },
+  {
+    "id": "kell",
+    "name": "Kellas Cat",
+    "species_id": "1",
+    "life_span": "1",
+    "temperament": "Not applicable - wild animal",
+    "origin": null,
+    "country_codes": null,
+    "country_code": null,
+    "description": "Large, melanistic wild-domestic hybrid found in Scotland. Not a true domestic breed.,14-18,36-46,12-16,30-41,8-15,3.6-6.8,6-12,2.7-5.4,Unknown",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": null,
+    "history": null,
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "1",
+      "metric": "Not appropriate with dogs"
+    },
+    "height": {
+      "imperial": "Wild, Independent, Elusive, Athletic",
+      "metric": "Not appropriate as a pet. Wild hybrid."
+    }
+  },
+  {
+    "id": "khao",
+    "name": "Khao Manee",
+    "species_id": "1",
+    "life_span": "10-12",
+    "temperament": "Calm, Relaxed, Talkative, Playful, Warm, Intelligent, Social",
+    "origin": "Thailand",
+    "country_codes": "TH",
+    "country_code": "TH",
+    "description": "Medium-sized, muscular white cat with striking blue, gold, or odd-colored eyes. Ancient Thai royal cat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Ancient Thai breed, kept by royalty for centuries. Name means 'white gem' in Thai. Also called Diamond Eye cat. Recently introduced to the West and recognized by TICA.",
+    "reference_image_id": "iyFN2mF8l",
+    "weight": {
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "iyFN2mF8l",
+      "url": "https://cdn2.thecatapi.com/images/iyFN2mF8l.jpg",
+      "width": 1858,
+      "height": 1565
+    }
+  },
+  {
+    "id": "kora",
+    "name": "Korat",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Active, Loyal, Highly intelligent, Expressive, Trainable, Affectionate",
+    "origin": "Thailand",
+    "country_codes": "Thailand",
+    "country_code": "TH",
+    "description": "Medium-sized, muscular cat with distinctive blue-gray coat and heart-shaped face. Ancient Thai breed known as good luck symbol.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Ancient Thai breed, one of the oldest and most treasured. Traditionally given as wedding gifts for good luck. Name comes from the Korat province in Thailand. First exported to the West in 1959.",
+    "reference_image_id": "1TcC-kiI1",
+    "weight": {
+      "imperial": "6-11",
+      "metric": "2.7-5"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "1TcC-kiI1",
+      "url": "https://cdn2.thecatapi.com/images/1TcC-kiI1.jpg",
+      "width": 1080,
+      "height": 1350
+    }
+  },
+  {
+    "id": "kuri",
+    "name": "Kurilian Bobtail",
+    "species_id": "1",
+    "life_span": "15-20",
+    "temperament": "Independent, Highly intelligent, Clever, Inquisitive, Sociable, Playful, Trainable, Gentle",
+    "origin": "Russia",
+    "country_codes": "RU",
+    "country_code": "RU",
+    "description": "Medium to large muscular cat with distinctive pom-pom bobbed tail. Natural breed from Russian Kuril Islands.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Natural breed originating from the Kuril Islands between Russia and Japan. Adapted to harsh island conditions with excellent hunting and fishing skills. Different bobbed tail mutation from Japanese Bobtail.",
+    "reference_image_id": "NZpO4pU56M",
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "NZpO4pU56M",
+      "url": "https://cdn2.thecatapi.com/images/NZpO4pU56M.jpg",
+      "width": 750,
+      "height": 750
+    }
+  },
+  {
+    "id": "lape",
+    "name": "LaPerm",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Affectionate, Friendly, Gentle, Intelligent, Playful, Quiet",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized cat with distinctive curly or wavy coat ranging from tight ringlets to long corkscrew curls.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Rex",
+    "history": "Originated in Oregon in 1982 from a spontaneous mutation in a barn cat litter. The first kitten, named Curly, was born bald and later developed curly fur. The curly coat gene is dominant.",
+    "reference_image_id": "in-CD5LH5",
+    "weight": {
+      "imperial": "6-10",
+      "metric": "2.7-4.5"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    },
+    "image": {
+      "id": "in-CD5LH5",
+      "url": "https://cdn2.thecatapi.com/images/in-CD5LH5.jpg",
+      "width": 4256,
+      "height": 2832
+    }
+  },
+  {
+    "id": "lyko",
+    "name": "Lykoi",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Personable, Playful, Mischievous, Friendly, Cheerful, Affectionate",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized cat with unique partially hairless coat resembling a werewolf. Distinctive appearance with varying amounts of fur.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Partially hairless",
+    "history": "Developed from natural mutations appearing in feral cat populations. First intentionally bred in 2011. Name comes from Greek word for wolf. TICA recognized breed.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "6-12",
+      "metric": "2.7-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    }
+  },
+  {
+    "id": "mcoo",
+    "name": "Maine Coon",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Adaptable, Intelligent, Loving, Gentle, Independent, Playful, Friendly",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Large to very large, muscular cat with long shaggy coat, tufted ears, and bushy tail. One of the largest domestic cat breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "One of the oldest natural breeds in North America, developed in Maine. Legend says descended from Marie Antoinette's cats. Adapted to harsh New England winters with thick waterproof coat. State cat of Maine.",
+    "reference_image_id": "jyjEWK7xp",
+    "weight": {
+      "imperial": "15-25",
+      "metric": "6.8-11.3"
+    },
+    "height": {
+      "imperial": "15-25",
+      "metric": "38-64"
+    },
+    "image": {
+      "id": "jyjEWK7xp",
+      "url": "https://cdn2.thecatapi.com/images/jyjEWK7xp.jpg",
+      "width": 3144,
+      "height": 2448
+    }
+  },
+  {
+    "id": "mala",
+    "name": "Malayan",
+    "species_id": "1",
+    "life_span": "12-18",
+    "temperament": "Affectionate, Interactive, Playful, Social, Vocal, People-oriented",
+    "origin": "United Kingdom",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Medium-sized cat similar to Burmese but in different colors. Elegant and muscular with satin-like coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in the UK as part of the Asian cat group. Related to Burmese with similar personality but different colorings. Sometimes called Asian in the UK.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    }
+  },
+  {
+    "id": "manx",
+    "name": "Manx",
+    "species_id": "1",
+    "life_span": "12-14",
+    "temperament": "Easy Going, Intelligent, Loyal, Playful, Social, Gentle, Affectionate",
+    "origin": "Isle of Man",
+    "country_codes": "IM",
+    "country_code": "IM",
+    "description": "Medium-sized, compact cat with round body and no tail or partial tail. Powerful hindquarters give rabbit-like hopping gait.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Ancient breed from the Isle of Man where taillessness developed through isolated island genetics. Taillessness caused by dominant gene. Various tail lengths occur - rumpy (no tail) to longy (full tail).",
+    "reference_image_id": "i9HsL15nJ",
+    "weight": {
+      "imperial": "8-13",
+      "metric": "3.6-5.9"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "i9HsL15nJ",
+      "url": "https://cdn2.thecatapi.com/images/i9HsL15nJ.jpg",
+      "width": 3024,
+      "height": 4032
+    }
+  },
+  {
+    "id": "mins",
+    "name": "Minskin",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Sweet-tempered, Friendly, Intelligent, Affectionate, Playful",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Small cat with short legs, sparse coat on body, and fully furred points. Combines Munchkin and hairless breed traits.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hairless/Short-legged",
+    "history": "Developed starting in 1998 in Boston by crossing Munchkins with Sphynx, then introducing Burmese and Devon Rex. Has fur on points (face, ears, legs, tail) but sparse hair on body. TICA recognized.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "4-8",
+      "metric": "1.8-3.6"
+    },
+    "height": {
+      "imperial": "6-9",
+      "metric": "15-23"
+    }
+  },
+  {
+    "id": "minu",
+    "name": "Minuet",
+    "species_id": "1",
+    "life_span": "9-15",
+    "temperament": "Charming, Gentle, Curious, Extremely affectionate, People-oriented",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Small to medium cat with short legs and round Persian-type face. Also known as Napoleon cat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Developed in the 1990s by crossing Munchkins with Persians, Exotic Shorthairs, and Himalayans. Named Napoleon for short stature. TICA recognized breed.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "5-9",
+      "metric": "2.3-4"
+    },
+    "height": {
+      "imperial": "7-9",
+      "metric": "18-23"
+    }
+  },
+  {
+    "id": "munc",
+    "name": "Munchkin",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Agile, Easy Going, Intelligent, Playful, Affectionate, Outgoing",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Small to medium cat with distinctive very short legs and long body. Normal-sized cat with achondroplastic legs.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Modern breed developed from short-legged cats documented since 1940s. Current breeding began in Louisiana in 1983. Short legs from natural autosomal dominant gene. Controversial due to structural concerns.",
+    "reference_image_id": "vDFI6jI2O",
+    "weight": {
+      "imperial": "6-9",
+      "metric": "2.7-4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "vDFI6jI2O",
+      "url": "https://cdn2.thecatapi.com/images/vDFI6jI2O.jpg",
+      "width": 3555,
+      "height": 3031
+    }
+  },
+  {
+    "id": "napo",
+    "name": "Napoleon Longhair",
+    "species_id": "1",
+    "life_span": "4",
+    "temperament": "Daily brushing to prevent mats",
+    "origin": null,
+    "country_codes": null,
+    "country_code": null,
+    "description": "Small to medium cat with short legs and long plush coat. Longhaired variety of the Minuet.,7-9,18-23,6-8,15-20,5-9,2.3-4,4-7,1.8-3.2,9-15",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": null,
+    "history": null,
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "4",
+      "metric": "Good with dogs, sweet temperament"
+    },
+    "height": {
+      "imperial": "Charming, Gentle, Curious, Affectionate, Sweet",
+      "metric": "Excellent with families, very loving and gentle."
+    }
+  },
+  {
+    "id": "nebe",
+    "name": "Nebelung",
+    "species_id": "1",
+    "life_span": "11-16",
+    "temperament": "Gentle, Quiet, Shy, Playful, Reserved, Loyal",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized, elegant cat with long, silky blue-gray coat and green eyes. Longhaired version of Russian Blue.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed in the 1980s from longhaired Russian Blue-type cats. Name means 'creature of the mist' in German. Combines Russian Blue personality with elegant long coat. TICA recognized.",
+    "reference_image_id": "KpHqQPUPW",
+    "weight": {
+      "imperial": "7-11",
+      "metric": "3.2-5"
+    },
+    "height": {
+      "imperial": "10-13",
+      "metric": "25-33"
+    },
+    "image": {
+      "id": "KpHqQPUPW",
+      "url": "https://cdn2.thecatapi.com/images/KpHqQPUPW.jpg",
+      "width": 3024,
+      "height": 4032
+    }
+  },
+  {
+    "id": "norw",
+    "name": "Norwegian Forest Cat",
+    "species_id": "1",
+    "life_span": "14-16",
+    "temperament": "Sweet, Active, Intelligent, Social, Playful, Lively, Curious, Independent",
+    "origin": "Norway",
+    "country_codes": "NO",
+    "country_code": "NO",
+    "description": "Large, sturdy cat with long, water-resistant double coat and strong build. Natural breed adapted to cold Norwegian climate.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Ancient natural breed that developed in Norwegian forests. Featured in Norse mythology as the skogkatt. Nearly extinct after WWII but preserved by Norwegian breeders. National cat of Norway.",
+    "reference_image_id": "rBuGgH_Wj",
+    "weight": {
+      "imperial": "12-16",
+      "metric": "5.4-7.3"
+    },
+    "height": {
+      "imperial": "12-16",
+      "metric": "30-41"
+    },
+    "image": {
+      "id": "rBuGgH_Wj",
+      "url": "https://cdn2.thecatapi.com/images/rBuGgH_Wj.jpg",
+      "width": 3840,
+      "height": 2160
+    }
+  },
+  {
+    "id": "ocic",
+    "name": "Ocicat",
+    "species_id": "1",
+    "life_span": "12-18",
+    "temperament": "Active, Agile, Curious, Demanding, Friendly, Gentle, Lively, Playful, Social",
+    "origin": "United States",
+    "country_codes": "United States",
+    "country_code": "US",
+    "description": "Medium to large, athletic spotted cat with wild appearance but fully domestic genetics. Muscular and graceful.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed accidentally in 1964 when breeding Siamese with Abyssinian produced spotted kittens resembling wild ocelots. No wild cat genetics despite appearance. CFA recognized in 1986.",
+    "reference_image_id": "HksHrR8-9",
+    "weight": {
+      "imperial": "9-15",
+      "metric": "4-6.8"
+    },
+    "height": {
+      "imperial": "12-15",
+      "metric": "30-38"
+    },
+    "image": {
+      "id": "HksHrR8-9",
+      "url": "https://cdn2.thecatapi.com/images/HksHrR8-9.jpg",
+      "width": 3704,
+      "height": 2469
+    }
+  },
+  {
+    "id": "ojos",
+    "name": "Ojos Azules",
+    "species_id": "1",
+    "life_span": "10-12",
+    "temperament": "Active, Friendly, Affectionate, Social",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized cat distinctive for its deep blue eyes regardless of coat color. Very rare breed.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Discovered in New Mexico in 1984 when a feral tortoiseshell cat with blue eyes was found. The blue eye gene is unique and unrelated to colorpoint or white spotting genes. Extremely rare - breeding complications make this a difficult breed to establish.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "6-12",
+      "metric": "2.7-5.4"
+    },
+    "height": {
+      "imperial": "9-11",
+      "metric": "23-28"
+    }
+  },
+  {
+    "id": "ori1",
+    "name": "Oriental Longhair",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Energetic, Affectionate, Intelligent, Social, Playful, Curious",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Elegant longhaired version of the Oriental Shorthair with silky flowing coat. Same tubular body and large ears.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed from Oriental Shorthairs with Balinese outcrosses to introduce the longhair gene. Same colors and patterns as Oriental Shorthair but with flowing coat.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "5-10",
+      "metric": "2.3-4.5"
+    },
+    "height": {
+      "imperial": "10-14",
+      "metric": "25-36"
+    }
+  },
+  {
+    "id": "orie",
+    "name": "Oriental Shorthair",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Energetic, Affectionate, Intelligent, Social, Playful, Curious",
+    "origin": "United States",
+    "country_codes": "United States",
+    "country_code": "US",
+    "description": "Medium-sized, elegant cat with long tubular body, large ears, and wedge-shaped head. Siamese body type in hundreds of colors.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed from Siamese in the 1950s-60s by breeders wanting Siamese type in non-pointed colors. Available in over 300 color combinations. Same personality as Siamese.",
+    "reference_image_id": "xbW2bsXfK",
+    "weight": {
+      "imperial": "5-10",
+      "metric": "2.3-4.5"
+    },
+    "height": {
+      "imperial": "10-14",
+      "metric": "25-36"
+    },
+    "image": {
+      "id": "xbW2bsXfK",
+      "url": "https://cdn2.thecatapi.com/images/xbW2bsXfK.jpg",
+      "width": 2448,
+      "height": 3264
+    }
+  },
+  {
+    "id": "pant",
+    "name": "Pantherette",
+    "species_id": "1",
+    "life_span": "1",
+    "temperament": "Minimal grooming needed",
+    "origin": null,
+    "country_codes": null,
+    "country_code": null,
+    "description": "Medium to large, muscular black cat bred to resemble a black panther. Experimental breed.,12-15,30-38,10-13,25-33,10-18,4.5-8.2,8-14,3.6-6.4,12-15",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": null,
+    "history": null,
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "4",
+      "metric": "Good with dogs"
+    },
+    "height": {
+      "imperial": "Active, Intelligent, Playful, Affectionate, Social",
+      "metric": "Good with active families, playful and friendly."
+    }
+  },
+  {
+    "id": "pers",
+    "name": "Persian",
+    "species_id": "1",
+    "life_span": "12-17",
+    "temperament": "Affectionate, Loyal, Sedate, Quiet, Sweet, Gentle, Calm",
+    "origin": "Iran (Persia)",
+    "country_codes": "IR",
+    "country_code": "IR",
+    "description": "Medium to large, cobby cat with distinctive flat face, long luxurious coat, and calm demeanor. One of the oldest and most popular breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "One of the oldest known breeds, originating in Persia (Iran). Popular with royalty since 1600s when brought to Europe. Modern flat-faced type developed primarily in the 20th century.",
+    "reference_image_id": "Pqtwt4FCq",
+    "weight": {
+      "imperial": "9-14",
+      "metric": "4-6.4"
+    },
+    "height": {
+      "imperial": "10-15",
+      "metric": "25-38"
+    },
+    "image": {
+      "id": "Pqtwt4FCq",
+      "url": "https://cdn2.thecatapi.com/images/Pqtwt4FCq.jpg",
+      "width": 3864,
+      "height": 2577
+    }
+  },
+  {
+    "id": "pete",
+    "name": "Peterbald",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Highly intelligent, Affectionate, Playful, Active, Athletic, Social",
+    "origin": "Russia",
+    "country_codes": "RU",
+    "country_code": "RU",
+    "description": "Medium-sized, elegant hairless or partially haired cat with long narrow head and large ears. Russian breed related to Oriental type.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hairless",
+    "history": "Developed in St. Petersburg, Russia in 1994 by crossing a Don Sphynx with an Oriental Shorthair. Combines Oriental elegance with hairlessness. Can range from completely bald to short coat.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "7-14",
+      "metric": "3.2-6.4"
+    },
+    "height": {
+      "imperial": "10-14",
+      "metric": "25-36"
+    }
+  },
+  {
+    "id": "pixi",
+    "name": "Pixie-bob",
+    "species_id": "1",
+    "life_span": "13-16",
+    "temperament": "Affectionate, Social, Intelligent, Loyal, Devoted, Active",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large, muscular cat with bobbed tail and wild appearance. Resembles North American bobcat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Developed in the 1980s from naturally occurring domestic cats resembling bobcats. Despite legends, DNA testing confirms fully domestic origins. Known for dog-like personalities. Polydactyl toes common.",
+    "reference_image_id": "fAYgJmLM8",
+    "weight": {
+      "imperial": "11-17",
+      "metric": "5-7.7"
+    },
+    "height": {
+      "imperial": "14-17",
+      "metric": "36-43"
+    },
+    "image": {
+      "id": "fAYgJmLM8",
+      "url": "https://cdn2.thecatapi.com/images/fAYgJmLM8.jpg",
+      "width": 3072,
+      "height": 2304
+    }
+  },
+  {
+    "id": "poly",
+    "name": "Polydactyl",
+    "species_id": "1",
+    "life_span": "12-18",
+    "temperament": "Varies by individual - typically Affectionate, Intelligent, Playful, Social",
+    "origin": "Worldwide",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Domestic cat of any breed or type with extra toes. Can occur in any cat population.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Varies",
+    "history": "Polydactyly is a genetic trait causing extra toes, most common on front paws. Famous at Hemingway Home in Key West. Sometimes called 'mitten cats' or 'thumb cats.' Not a breed but a trait.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "Variable",
+      "metric": "Variable"
+    }
+  },
+  {
+    "id": "raas",
+    "name": "Raas",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Independent, Intelligent, Athletic, Active",
+    "origin": "Indonesia",
+    "country_codes": "ID",
+    "country_code": "ID",
+    "description": "Medium to large natural breed from Raas Island, Indonesia. Robust build with distinctive wild appearance.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Natural breed from Raas Island in the Java Sea, Indonesia. Adapted to island life with excellent hunting skills. Rare outside Indonesia. Limited breeding population worldwide.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "10-14",
+      "metric": "25-36"
+    }
+  },
+  {
+    "id": "raga",
+    "name": "Ragamuffin",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Affectionate, Friendly, Gentle, Calm, Sweet, Patient",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Large, cuddly cat with plush coat and sweet expression. Related to Ragdoll but with more coat colors and patterns allowed.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed from Ragdoll outcrosses in the 1990s when some breeders split from Ragdoll breeding programs. Allows wider range of colors and patterns than Ragdoll. CFA recognized in 2003.",
+    "reference_image_id": "SMuZx-bFM",
+    "weight": {
+      "imperial": "15-20",
+      "metric": "6.8-9.1"
+    },
+    "height": {
+      "imperial": "12-16",
+      "metric": "30-41"
+    },
+    "image": {
+      "id": "SMuZx-bFM",
+      "url": "https://cdn2.thecatapi.com/images/SMuZx-bFM.jpg",
+      "width": 3000,
+      "height": 2000
+    }
+  },
+  {
+    "id": "ragd",
+    "name": "Ragdoll",
+    "species_id": "1",
+    "life_span": "12-17",
+    "temperament": "Affectionate, Friendly, Gentle, Quiet, Easygoing, Docile, Calm",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Large, gentle cat famous for going limp when picked up. Striking blue eyes and colorpoint semi-long coat.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed in California in the 1960s by Ann Baker. Famous for relaxing completely when held. Slow to mature, reaching full size at 4 years. One of the largest domestic cat breeds.",
+    "reference_image_id": "80kGxlgR1",
+    "weight": {
+      "imperial": "15-20",
+      "metric": "6.8-9.1"
+    },
+    "height": {
+      "imperial": "13-17",
+      "metric": "33-43"
+    },
+    "image": {
+      "id": "80kGxlgR1",
+      "url": "https://cdn2.thecatapi.com/images/80kGxlgR1.jpg",
+      "width": 4272,
+      "height": 2848
+    }
+  },
+  {
+    "id": "rblu",
+    "name": "Russian Blue",
+    "species_id": "1",
+    "life_span": "15-20",
+    "temperament": "Active, Dependent, Easy Going, Gentle, Intelligent, Loyal, Playful, Quiet, Reserved",
+    "origin": "Russia",
+    "country_codes": "RU",
+    "country_code": "RU",
+    "description": "Medium-sized, elegant cat with distinctive blue-gray double coat and emerald green eyes. Known for reserved but affectionate nature.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Natural breed originating around the Russian port of Arkhangelsk. Also called Archangel Blue. Nearly extinct after WWII but rebuilt using Scandinavian and British cats. Known for hypoallergenic qualities.",
+    "reference_image_id": "S-1YzA7-_",
+    "weight": {
+      "imperial": "7-15",
+      "metric": "3.2-6.8"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "S-1YzA7-_",
+      "url": "https://cdn2.thecatapi.com/images/S-1YzA7-_.jpg",
+      "width": 3888,
+      "height": 2592
+    }
+  },
+  {
+    "id": "safa",
+    "name": "Safari",
+    "species_id": "1",
+    "life_span": "15-20",
+    "temperament": "Intelligent, Active, Affectionate, Curious, Independent",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Large hybrid cat crossed from Geoffroy's cat and domestic breeds. Rare with wild appearance.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hybrid",
+    "history": "Rare hybrid developed by crossing Geoffroy's cat with domestic cats. One of the rarest and most expensive hybrid cats. Difficult to breed due to chromosome differences. Not widely available.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "15-25",
+      "metric": "6.8-11.3"
+    },
+    "height": {
+      "imperial": "14-18",
+      "metric": "36-46"
+    }
+  },
+  {
+    "id": "sava",
+    "name": "Savannah",
+    "species_id": "1",
+    "life_span": "12-20",
+    "temperament": "Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate, Active",
+    "origin": "United States",
+    "country_codes": "United States",
+    "country_code": "US",
+    "description": "Large to very large tall spotted cat, a hybrid between domestic cat and African serval. Wild appearance with domestic temperament.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hybrid",
+    "history": "Created in 1986 by crossing a serval with a domestic cat. Generation level (F1-F5) affects size and temperament. Largest domestic cat breed. Legal status varies by location. TICA recognized.",
+    "reference_image_id": "qf6MhNS8z",
+    "weight": {
+      "imperial": "12-25",
+      "metric": "5.4-11.3"
+    },
+    "height": {
+      "imperial": "16-20",
+      "metric": "41-51"
+    },
+    "image": {
+      "id": "qf6MhNS8z",
+      "url": "https://cdn2.thecatapi.com/images/qf6MhNS8z.jpg",
+      "width": 4032,
+      "height": 3024
+    }
+  },
+  {
+    "id": "sfol",
+    "name": "Scottish Fold",
+    "species_id": "1",
+    "life_span": "11-14",
+    "temperament": "Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving, Gentle",
+    "origin": "Scotland",
+    "country_codes": "GB",
+    "country_code": "GB",
+    "description": "Medium-sized round cat with distinctive folded ears that give an owl-like appearance. Known for sweet, gentle personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Long-hair",
+    "history": "Originated in 1961 from a white barn cat named Susie found in Scotland with naturally folded ears. Fold is caused by cartilage gene that can also affect joints. Breeding regulations vary by country.",
+    "reference_image_id": "dkN5wGUxC",
+    "weight": {
+      "imperial": "9-13",
+      "metric": "4-5.9"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "dkN5wGUxC",
+      "url": "https://cdn2.thecatapi.com/images/dkN5wGUxC.jpg",
+      "width": 4272,
+      "height": 2848
+    }
+  },
+  {
+    "id": "srex",
+    "name": "Selkirk Rex",
+    "species_id": "1",
+    "life_span": "14-15",
+    "temperament": "Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large cat with plush, curly coat resembling a teddy bear. More stocky build than other Rex breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Rex",
+    "history": "Originated in 1987 in Montana from a curly-coated kitten in a shelter litter. Named after the Selkirk Mountains. Unlike other Rex breeds, the curl gene is dominant. CFA recognized in 2000.",
+    "reference_image_id": "B2YB13Ydq",
+    "weight": {
+      "imperial": "11-16",
+      "metric": "5-7.3"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "B2YB13Ydq",
+      "url": "https://cdn2.thecatapi.com/images/B2YB13Ydq.jpg",
+      "width": 3447,
+      "height": 2290
+    }
+  },
+  {
+    "id": "sere",
+    "name": "Serengeti",
+    "species_id": "1",
+    "life_span": "13-15",
+    "temperament": "Confident, Friendly, Patient, Loyal, Vocal, Alert, Active",
+    "origin": "United States",
+    "country_codes": "United States",
+    "country_code": "US",
+    "description": "Medium to large, long-legged spotted cat developed to resemble wild serval without wild genetics.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in the 1990s by crossing Bengals with Oriental Shorthairs. Goal was to create a cat resembling the African serval using only domestic breeds. TICA registered breed.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "12-15",
+      "metric": "30-38"
+    }
+  },
+  {
+    "id": "siam",
+    "name": "Siamese",
+    "species_id": "1",
+    "life_span": "12-20",
+    "temperament": "Active, Agile, Clever, Sociable, Loving, Energetic, Affectionate",
+    "origin": "Thailand",
+    "country_codes": "Thailand",
+    "country_code": "TH",
+    "description": "Medium-sized, elegant cat with distinctive colorpoint pattern, blue eyes, and wedge-shaped head. One of the most recognizable breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "One of the oldest recognized breeds, originating in Thailand (Siam). Favored by Thai royalty. First came to the West in the 1880s. Modern show Siamese has more extreme features than traditional type.",
+    "reference_image_id": "Xwp-MBOtI",
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "10-14",
+      "metric": "25-36"
+    },
+    "image": {
+      "id": "Xwp-MBOtI",
+      "url": "https://cdn2.thecatapi.com/images/Xwp-MBOtI.jpg",
+      "width": 3225,
+      "height": 2419
+    }
+  },
+  {
+    "id": "sibe",
+    "name": "Siberian",
+    "species_id": "1",
+    "life_span": "11-18",
+    "temperament": "Curious, Intelligent, Loyal, Sweet, Agile, Playful, Affectionate, Adventurous",
+    "origin": "Russia",
+    "country_codes": "RU",
+    "country_code": "RU",
+    "description": "Large, powerful cat with long triple coat and strong build. Russia's national cat adapted to harsh Siberian climate.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Ancient natural breed that developed in Russia's harsh Siberian forests. Considered Russia's national cat. Known for potentially hypoallergenic qualities due to lower Fel d 1 protein levels.",
+    "reference_image_id": "IJyPTBLyU",
+    "weight": {
+      "imperial": "15-20",
+      "metric": "6.8-9.1"
+    },
+    "height": {
+      "imperial": "13-17",
+      "metric": "33-43"
+    },
+    "image": {
+      "id": "IJyPTBLyU",
+      "url": "https://cdn2.thecatapi.com/images/IJyPTBLyU.jpg",
+      "width": 5401,
+      "height": 3601
+    }
+  },
+  {
+    "id": "sing",
+    "name": "Singapura",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Curious, Easy Going, Intelligent, Interactive, Lively, Loyal, Playful",
+    "origin": "Singapore",
+    "country_codes": "Singapore",
+    "country_code": "SG",
+    "description": "Small, muscular cat with distinctive sepia agouti coat and large eyes. One of the smallest domestic cat breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Origin debated - claimed to be from Singapore street cats but controversy exists about true origins. Also called 'Drain Cat' for Singapore street cats' hiding places. CFA recognized in 1988.",
+    "reference_image_id": "GOvziuOyw",
+    "weight": {
+      "imperial": "4-8",
+      "metric": "1.8-3.6"
+    },
+    "height": {
+      "imperial": "7-9",
+      "metric": "18-23"
+    },
+    "image": {
+      "id": "GOvziuOyw",
+      "url": "https://cdn2.thecatapi.com/images/GOvziuOyw.jpg",
+      "width": 3309,
+      "height": 2482
+    }
+  },
+  {
+    "id": "sinp",
+    "name": "Singapura Tabby",
+    "species_id": "1",
+    "life_span": "1",
+    "temperament": "Minimal grooming needed",
+    "origin": null,
+    "country_codes": null,
+    "country_code": null,
+    "description": "Small, muscular cat with tabby pattern variation of Singapura. Extremely rare.,7-9,18-23,6-8,15-20,4-8,1.8-3.6,4-6,1.8-2.7,12-15",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": null,
+    "history": null,
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "4",
+      "metric": "Good with dogs, adaptable"
+    },
+    "height": {
+      "imperial": "Affectionate, Curious, Intelligent, Lively, Playful",
+      "metric": "Excellent with families, loves attention. Great with children."
+    }
+  },
+  {
+    "id": "skoo",
+    "name": "Skookum",
+    "species_id": "1",
+    "life_span": "10-15",
+    "temperament": "Energetic, Silly, Playful, Intelligent, Affectionate, Sweet",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Small cat with short legs and curly coat. Combines Munchkin and LaPerm traits.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Rex",
+    "history": "Developed in the 1990s by crossing Munchkins with LaPerms. Named after Chinook Jargon word for 'strong' or 'mighty.' Recognized by some registries. Short-legged with curly coat.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "5-9",
+      "metric": "2.3-4"
+    },
+    "height": {
+      "imperial": "6-9",
+      "metric": "15-23"
+    }
+  },
+  {
+    "id": "snow",
+    "name": "Snowshoe",
+    "species_id": "1",
+    "life_span": "14-19",
+    "temperament": "Affectionate, Social, Intelligent, Sweet-tempered, Active, Vocal",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized pointed cat with distinctive white feet, blue eyes, and inverted V marking on face.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed in the 1960s by crossing Siamese with American Shorthairs. Named for distinctive white feet. Difficult to breed as markings are hard to predict. Gaining popularity.",
+    "reference_image_id": "BB18hZT2z",
+    "weight": {
+      "imperial": "9-12",
+      "metric": "4-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "BB18hZT2z",
+      "url": "https://cdn2.thecatapi.com/images/BB18hZT2z.jpg",
+      "width": 2909,
+      "height": 2126
+    }
+  },
+  {
+    "id": "soko",
+    "name": "Sokoke",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Easily leash-trained, Intelligent, Curious, Interactive, Loving, Active",
+    "origin": "Kenya",
+    "country_codes": "DK",
+    "country_code": "DK",
+    "description": "Medium-sized, athletic cat with distinctive modified tabby pattern. Natural breed from Kenya's Sokoke forest.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Natural breed from the Sokoke forest region of Kenya. Known locally as Khadzonzo. First brought to Denmark in 1978. One of the rarest natural cat breeds. Distinctive tree-bark pattern.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "7-11",
+      "metric": "3.2-5"
+    },
+    "height": {
+      "imperial": "9-12",
+      "metric": "23-30"
+    }
+  },
+  {
+    "id": "soma",
+    "name": "Somali",
+    "species_id": "1",
+    "life_span": "11-16",
+    "temperament": "Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal, Active",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium-sized, elegant cat with long ticked coat and bushy tail. Longhaired version of the Abyssinian.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Developed from longhaired kittens appearing in Abyssinian litters. First bred intentionally in the 1960s. Named for Somalia, neighbor to Abyssinia (Ethiopia). Called 'fox cat' for its bushy tail.",
+    "reference_image_id": "yLnM69IIz",
+    "weight": {
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "yLnM69IIz",
+      "url": "https://cdn2.thecatapi.com/images/yLnM69IIz.jpg",
+      "width": 4368,
+      "height": 2912
+    }
+  },
+  {
+    "id": "sphy",
+    "name": "Sphynx",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Loyal, Inquisitive, Friendly, Quiet, Gentle, Affectionate, Social",
+    "origin": "Canada",
+    "country_codes": "CA",
+    "country_code": "CA",
+    "description": "Medium-sized, hairless cat with wrinkled skin, large ears, and muscular body. Known for affectionate, attention-seeking personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hairless",
+    "history": "Originated from hairless kittens born in Toronto, Canada in 1966. Hairlessness is caused by a recessive gene. Not truly hairless - covered in fine down. Needs warmth and sun protection.",
+    "reference_image_id": "2hPNn0Wrr",
+    "weight": {
+      "imperial": "8-14",
+      "metric": "3.6-6.4"
+    },
+    "height": {
+      "imperial": "9-12",
+      "metric": "23-30"
+    },
+    "image": {
+      "id": "2hPNn0Wrr",
+      "url": "https://cdn2.thecatapi.com/images/2hPNn0Wrr.jpg",
+      "width": 3840,
+      "height": 2160
+    }
+  },
+  {
+    "id": "suph",
+    "name": "Suphalak",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Intelligent, Playful, Social, Active",
+    "origin": "Thailand",
+    "country_codes": "TH",
+    "country_code": "TH",
+    "description": "Medium-sized, muscular cat with solid reddish-brown coat. Ancient Thai breed mentioned in Cat Book Poems.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Ancient Thai breed mentioned in the Tamra Maew (Cat Book Poems) dating from 1350. Extremely rare, nearly extinct. Solid reddish-brown color. Related to Burmese. Considered a lucky cat in Thai culture.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    }
+  },
+  {
+    "id": "thai",
+    "name": "Thai",
+    "species_id": "1",
+    "life_span": "12-16",
+    "temperament": "Active, Social, Intelligent, Affectionate, Playful, Vocal",
+    "origin": "Thailand",
+    "country_codes": "TH",
+    "country_code": "TH",
+    "description": "Medium-sized pointed cat representing the traditional Siamese type. Less extreme features than modern Siamese.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Represents the traditional or 'old-style' Siamese that existed before selective breeding created the modern extreme type. Sometimes called Wichian Mat. TICA recognized as separate breed.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-15",
+      "metric": "3.6-6.8"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    }
+  },
+  {
+    "id": "tonk",
+    "name": "Tonkinese",
+    "species_id": "1",
+    "life_span": "14-16",
+    "temperament": "Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate",
+    "origin": "Canada/United States",
+    "country_codes": "Canada/United States",
+    "country_code": "CA",
+    "description": "Medium-sized, muscular cat combining Siamese and Burmese traits. Pointed pattern with aqua eyes in mink color.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Created in the 1960s by crossing Siamese with Burmese, though the combination occurred naturally before. Combines best traits of both breeds. Comes in three pattern types: solid, mink, and pointed.",
+    "reference_image_id": "TYQKhQ3mn",
+    "weight": {
+      "imperial": "6-12",
+      "metric": "2.7-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    },
+    "image": {
+      "id": "TYQKhQ3mn",
+      "url": "https://cdn2.thecatapi.com/images/TYQKhQ3mn.jpg",
+      "width": 1440,
+      "height": 1440
+    }
+  },
+  {
+    "id": "toyb",
+    "name": "Toybob",
+    "species_id": "1",
+    "life_span": "14-18",
+    "temperament": "Loving, Social, Active, Playful, Affectionate, Sweet",
+    "origin": "Russia",
+    "country_codes": "RU",
+    "country_code": "RU",
+    "description": "Very small, compact cat with bobbed tail. One of the smallest cat breeds but muscular and active.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short/Semi-longhair",
+    "history": "Developed in Russia starting in 1983 from naturally small cats with bobbed tails. Not a miniaturized breed - naturally occurring small size. TICA recognized. Extremely rare outside Russia.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "3-6",
+      "metric": "1.4-2.7"
+    },
+    "height": {
+      "imperial": "6-8",
+      "metric": "15-20"
+    }
+  },
+  {
+    "id": "toyg",
+    "name": "Toyger",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Playful, Social, Intelligent, Friendly, Outgoing, Active",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Medium to large, muscular cat with distinctive tiger-like tabby stripes. Bred to resemble a miniature tiger.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Short-haired",
+    "history": "Developed starting in the 1980s by Judy Sugden to create a domestic cat resembling a tiger. Bred from Bengals and domestic shorthairs. The name is a portmanteau of 'toy' and 'tiger.' TICA recognized.",
+    "reference_image_id": "Ba-qRZ_8n",
+    "weight": {
+      "imperial": "10-15",
+      "metric": "4.5-6.8"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "Ba-qRZ_8n",
+      "url": "https://cdn2.thecatapi.com/images/Ba-qRZ_8n.jpg",
+      "width": 2736,
+      "height": 1824
+    }
+  },
+  {
+    "id": "tang",
+    "name": "Turkish Angora",
+    "species_id": "1",
+    "life_span": "12-18",
+    "temperament": "Affectionate, Agile, Clever, Gentle, Intelligent, Playful, Social, Athletic",
+    "origin": "Turkey",
+    "country_codes": "TR",
+    "country_code": "TR",
+    "description": "Medium-sized, elegant cat with long silky coat and graceful build. One of the oldest natural cat breeds.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Ancient natural breed from Turkey, possibly one of the oldest longhaired breeds. Prized in Turkey's national zoo breeding program in Ankara. All-white cats with odd eyes are traditionally most valued.",
+    "reference_image_id": "KU_LUntSX",
+    "weight": {
+      "imperial": "7-14",
+      "metric": "3.2-6.4"
+    },
+    "height": {
+      "imperial": "10-14",
+      "metric": "25-36"
+    },
+    "image": {
+      "id": "KU_LUntSX",
+      "url": "https://cdn2.thecatapi.com/images/KU_LUntSX.jpg",
+      "width": 2634,
+      "height": 3399
+    }
+  },
+  {
+    "id": "tvan",
+    "name": "Turkish Van",
+    "species_id": "1",
+    "life_span": "12-17",
+    "temperament": "Agile, Intelligent, Loyal, Playful, Energetic, Active, Affectionate",
+    "origin": "Turkey",
+    "country_codes": "TR",
+    "country_code": "TR",
+    "description": "Large, muscular cat with distinctive Van pattern (colored head and tail, white body). Famous for loving water.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Long-haired",
+    "history": "Ancient natural breed from the Lake Van region of Turkey. Famous for swimming ability and love of water. Distinctive Van pattern with colored markings only on head and tail. Turkish national treasure.",
+    "reference_image_id": "NHiuHD4Ax",
+    "weight": {
+      "imperial": "10-20",
+      "metric": "4.5-9.1"
+    },
+    "height": {
+      "imperial": "13-17",
+      "metric": "33-43"
+    },
+    "image": {
+      "id": "NHiuHD4Ax",
+      "url": "https://cdn2.thecatapi.com/images/NHiuHD4Ax.jpg",
+      "width": 1656,
+      "height": 2208
+    }
+  },
+  {
+    "id": "ukra",
+    "name": "Ukrainian Levkoy",
+    "species_id": "1",
+    "life_span": "12-15",
+    "temperament": "Affectionate, Relaxed, Playful, Curious, Intelligent, Social",
+    "origin": "Ukraine",
+    "country_codes": "UA",
+    "country_code": "UA",
+    "description": "Medium-sized, hairless cat with distinctive folded ears. Unique combination of hairlessness and ear fold.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Hairless",
+    "history": "Developed in Ukraine starting in 2000 by crossing Don Sphynx with Scottish Fold. Combines hairlessness with folded ears. Not widely recognized due to potential health concerns with both traits.",
+    "reference_image_id": null,
+    "weight": {
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
+    },
+    "height": {
+      "imperial": "10-12",
+      "metric": "25-30"
+    }
+  },
+  {
+    "id": "ycho",
+    "name": "York Chocolate",
+    "species_id": "1",
+    "life_span": "13-15",
+    "temperament": "Playful, Social, Intelligent, Curious, Friendly, Affectionate, Active",
+    "origin": "United States",
+    "country_codes": "US",
+    "country_code": "US",
+    "description": "Large, semi-longhaired cat with rich chocolate or lavender coat. Farm cat origin with affectionate personality.",
+    "bred_for": null,
+    "perfect_for": null,
+    "breed_group": "Semi-longhair",
+    "history": "Originated in 1983 on a New York farm from a black and white longhaired cat and a black longhaired tom. Named for New York state and chocolate color. Rare breed, may be near extinction.",
+    "reference_image_id": "xIICfnlNm",
+    "weight": {
+      "imperial": "10-16",
+      "metric": "4.5-7.3"
+    },
+    "height": {
+      "imperial": "11-14",
+      "metric": "28-36"
+    },
+    "image": {
+      "id": "xIICfnlNm",
+      "url": "https://cdn2.thecatapi.com/images/xIICfnlNm.jpg",
+      "width": 1696,
+      "height": 2544
+    }
+  }
+]
